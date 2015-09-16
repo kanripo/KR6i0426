@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說罵意經
+#+DATE: 2015-08-30 20:19:20.582696
+#+PROPERTY: JUAN 0
