@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:20.369247
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:34
 #+TITLE: 佛說罵意經
 #+PROPERTY: CBETA_ID T17n0732
 #+PROPERTY: ID KR6i0426
